@@ -1,0 +1,100 @@
+[
+	{
+		"name": "Arusha",
+		"districts":[
+		  {
+       "name":"Arumeru Magharibi"
+		  },
+      {
+        "name": "Arumeru Mashariki"
+      },
+      {
+        "name": "Arusha Mjini "
+      },
+      {
+       "name":"Karatu"
+		  },
+      {
+        "name": "Longido"
+      },
+      {
+        "name": "Monduli"
+      }
+     ]
+	},
+	{
+		"name": "Dar es Salaam"
+	},
+	{
+		"name": "Dodoma"
+	},
+	{
+		"name": "Iringa"
+	},
+	{
+		"name": "Kagera"
+	},
+	{
+		"name": "Kaskazini Pemba"
+	},
+	{
+		"name": "Kaskazini Unguja"
+	},
+	{
+		"name": "Kigoma"
+	},
+	{
+		"name": "Kilimanjaro"
+	},
+	{
+		"name": "Kusini Pemba"
+	},
+	{
+		"name": "Kusini Unguja"
+	},
+	{
+		"name": "Lindi"
+	},
+	{
+		"name": "Manyara"
+	},
+	{
+		"name": "Mara"
+	},
+	{
+		"name": "Mbeya"
+	},
+	{
+		"name": "Mjini Magharibi"
+	},
+	{
+		"name": "Morogoro"
+	},
+	{
+		"name": "Mtwara"
+	},
+	{
+		"name": "Mwanza"
+	},
+	{
+		"name": "Pwani"
+	},
+	{
+		"name": "Rukwa"
+	},
+	{
+		"name": "Ruvuma"
+	},
+	{
+		"name": "Shinyanga"
+	},
+	{
+		"name": "Singida"
+	},
+	{
+		"name": "Tabora"
+	},
+	{
+		"name": "Tanga"
+	}
+]

@@ -1,29 +1,49 @@
 [
 	{
-		"name": "Arusha",
+	   "name": "Arusha",
 		"districts":[
-		  {
-       "name":"Arumeru Magharibi"
-		  },
-      {
-        "name": "Arumeru Mashariki"
-      },
-      {
-        "name": "Arusha Mjini "
-      },
-      {
-       "name":"Karatu"
-		  },
-      {
-        "name": "Longido"
-      },
-      {
-        "name": "Monduli"
-      }
-     ]
+					  {
+			            "name":"Arumeru Magharibi"
+					  },
+				      {
+				        "name": "Arumeru Mashariki"
+				      },
+				      {
+				        "name": "Arusha Mjini "
+				      },
+				      {
+				       "name":"Karatu"
+					  },
+				      {
+				        "name": "Longido"
+				      },
+				      {
+				        "name": "Monduli"
+				      }
+     				]
 	},
 	{
-		"name": "Dar es Salaam"
+		"name": "Dar es Salaam",
+		"districts":[
+					  {
+			            "name":"Kinondoni"
+					  },
+				      {
+				        "name": "Temeke"
+				      },
+				      {
+				        "name": "Ilala"
+				      },
+				      {
+				       "name":"Ubungo"
+					  },
+				      {
+				        "name": "Kigamboni"
+				      },
+				      {
+				        "name": "Monduli"
+				      }
+     				]
 	},
 	{
 		"name": "Dodoma"

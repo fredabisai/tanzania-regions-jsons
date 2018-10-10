@@ -39,32 +39,171 @@
 					  },
 				      {
 				        "name": "Kigamboni"
-				      },
-				      {
-				        "name": "Monduli"
 				      }
      				]
 	},
 	{
-		"name": "Dodoma"
+		"name": "Dodoma",
+		"districts":[
+					  {
+			            "name":"Bahi"
+					  },
+				      {
+				        "name": "Chamwino"
+				      },
+				      {
+				        "name": "Chemba"
+				      },
+				      {
+				       "name":"Dodoma"
+					  },
+				      {
+				        "name": "Kondoa"
+				      },
+				      {
+				        "name": "Kongwa"
+				      },
+				      {
+				        "name": "Mpwapwa"
+				      }
+     				]
 	},
 	{
-		"name": "Iringa"
+		"name": "Iringa",
+		"districts":[
+					  {
+			            "name":"Bahi"
+					  },
+				      {
+				        "name": "Chamwino"
+				      },
+				      {
+				        "name": "Chemba"
+				      },
+				      {
+				       "name":"Dodoma Mjini"
+					  },
+					  {
+				       "name":"Dodoma Vijijini"
+					  },
+				      {
+				        "name": "Kondoa"
+				      },
+				      {
+				        "name": "Kongwa"
+				      },
+				      {
+				        "name": "Mpwapwa"
+				      }
+     				]
+
 	},
 	{
-		"name": "Kagera"
+		"name": "Kagera",
+		"districts":[
+					  {
+			            "name":"Biharamulo"
+					  },
+				      {
+				        "name": "Bukoba Mjini"
+				      },
+				      {
+				        "name": "Bukoba Vijijini"
+				      },
+				      {
+				       "name":"Karagwe"
+					  },
+					  {
+				       "name":"Missenyi"
+					  },
+				      {
+				        "name": "Muleba"
+				      },
+				      {
+				        "name": "Ngara"
+				      },
+				      {
+				        "name": "Kyerwa"
+				      }
+     				]
 	},
 	{
-		"name": "Kaskazini Pemba"
+		"name": "Kaskazini Pemba",
+		"districts":[
+					  {
+			            "name":"Micheweni"
+					  },
+				      {
+				        "name": "Wete"
+				      }
+				      
+     				]
 	},
 	{
-		"name": "Kaskazini Unguja"
+		"name": "Kaskazini Unguja",
+		"districts":[
+					  {
+			            "name":"Unguja Kaskazini A"
+					  },
+				      {
+				        "name": "Unguja Kaskazini B"
+				      }
+     				]
 	},
 	{
-		"name": "Kigoma"
+		"name": "Kigoma",
+		"districts":[
+					  {
+			            "name":"Kasulu"
+					  },
+				      {
+				        "name": "Kibondo"
+				      },
+				      {
+				        "name": "Kigoma Vijijini"
+				      },
+				      {
+				       "name":"Kigoma Mjini"
+					  },
+					  {
+				       "name":"Kigoma Ujiji"
+					  },
+				      {
+				        "name": "Buhigwe"
+				      },
+				      {
+				        "name": "Kakonko"
+				      },
+				      {
+				        "name": "Uvinza"
+				      }
+     				]
 	},
 	{
-		"name": "Kilimanjaro"
+		"name": "Kilimanjaro",
+		"districts":[
+					  {
+			            "name":"Hai"
+					  },
+				      {
+				        "name": "Moshi Mjini"
+				      },
+				      {
+				        "name": "Moshi Vijijini"
+				      },
+				      {
+				       "name":"Mwanga"
+					  },
+					  {
+				       "name":"Rombo"
+					  },
+				      {
+				        "name": "Same"
+				      },
+				      {
+				        "name": "Siha"
+				      }
+     				]
 	},
 	{
 		"name": "Kusini Pemba"
